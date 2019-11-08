@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 1158ff160ebc4e24987f911078944fc2
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 6de8b6eefbc651044ae54525943eaf48
+  - enabled: 1
+    path: Assets/Scenes/WalkingInTheRain.unity
+    guid: 4b827e604851d2e4cbfc523a7174fc93
+  - enabled: 1
+    path: Assets/Scenes/dodge.unity
+    guid: baaae8af0ddbfc744bf294e5b5bc8fb0
+  - enabled: 1
+    path: Assets/Scenes/InsideBuilding.unity
+    guid: fbeaac408dd04c0418cf3ccd19b06c10
+  - enabled: 1
+    path: Assets/Scenes/Platform.unity
+    guid: a5ef9f0e1be7ada429d1dbfcc0bdff31
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 3a578e5fed182af45ab2b6b0656933f3
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: ffde03a80e0f12f43ba9d0b38718f966
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: cf912a4c41f9dd54b955c4a3efab220f
+  m_configObjects: {}
